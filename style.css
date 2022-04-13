@@ -1,0 +1,156 @@
+* {
+    font-weight: bold;
+}
+
+body {
+    background-image: url(./images/Terraria-Background.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+img {
+    width: 400px;
+}
+
+.desc {
+    font-size: 30px;
+    color:antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-image: url(https://forums.terraria.org/styles/overworld/relogic/content/background.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    color:antiquewhite;
+    background-position: top right;
+    padding: 20px 20px 20px 20px;
+    background-size: 100% 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-width: 2px;
+    border-top-style: solid;
+    border-top-color: rgba(255,255,255,0.1);
+    border-right-style: solid;
+    border-right-color: rgba(13,4,2,0.2);
+    border-bottom-style: solid;
+    border-bottom-color: rgba(13,4,2,0.2);
+    border-left-style: solid;
+    border-left-color: rgba(255,255,255,0.1);
+    border-radius: 8px;
+    box-shadow: #0a0a0a 0px 0px 15px;
+    background-origin: border-box;
+    background-clip: border-box;
+}
+
+h2 {
+    background-image: url(https://forums.terraria.org/styles/overworld/relogic/content/background.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    color:antiquewhite;
+    background-position: top right;
+    padding: 20px 20px 20px 20px;
+    background-size: 100% 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-width: 2px;
+    border-top-style: solid;
+    border-top-color: rgba(255,255,255,0.1);
+    border-right-style: solid;
+    border-right-color: rgba(13,4,2,0.2);
+    border-bottom-style: solid;
+    border-bottom-color: rgba(13,4,2,0.2);
+    border-left-style: solid;
+    border-left-color: rgba(255,255,255,0.1);
+    border-radius: 8px;
+    box-shadow: #0a0a0a 0px 0px 15px;
+    background-origin: border-box;
+    background-clip: border-box;
+}
+
+.mainbox {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:antiquewhite;
+    background-image: url(https://forums.terraria.org/styles/overworld/relogic/content/background.jpg);
+    background-position: top right;
+    padding: 20px 20px 20px 20px;
+    background-size: 100% 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-width: 2px;
+    border-top-style: solid;
+    border-top-color: rgba(255,255,255,0.1);
+    border-right-style: solid;
+    border-right-color: rgba(13,4,2,0.2);
+    border-bottom-style: solid;
+    border-bottom-color: rgba(13,4,2,0.2);
+    border-left-style: solid;
+    border-left-color: rgba(255,255,255,0.1);
+    border-radius: 8px;
+    box-shadow: #0a0a0a 0px 0px 15px;
+    background-origin: border-box;
+    background-clip: border-box;
+}
+
+.mainbox ul li a:hover {
+    background-color: #4E3219;
+    color: aliceblue;
+}
+
+.classes {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:antiquewhite;
+    background-image: url(https://forums.terraria.org/styles/overworld/relogic/content/background.jpg);
+    background-position: top right;
+    padding: 20px 20px 20px 20px;
+    background-size: 100% 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-width: 2px;
+    border-top-style: solid;
+    border-top-color: rgba(255,255,255,0.1);
+    border-right-style: solid;
+    border-right-color: rgba(13,4,2,0.2);
+    border-bottom-style: solid;
+    border-bottom-color: rgba(13,4,2,0.2);
+    border-left-style: solid;
+    border-left-color: rgba(255,255,255,0.1);
+    border-radius: 8px;
+    box-shadow: #0a0a0a 0px 0px 15px;
+    background-origin: border-box;
+    background-clip: border-box;
+
+}
+
+.classes ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display:flex;
+    justify-content: space-between;
+  }
+  
+  .classes ul li {
+    float: left;
+  }
+  
+  .classes ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  .classes ul li a:hover {
+    background-color: #4E3219;
+  }
+
+  .imgbox {
+      float:left;
+      border: 15px solid #6A4E42;
+      margin-right: 15px;
+  }
