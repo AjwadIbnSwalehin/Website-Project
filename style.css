@@ -154,3 +154,7 @@ h2 {
       border: 15px solid #6A4E42;
       margin-right: 15px;
   }
+
+  .magebox {
+      float: left;
+  }
